@@ -10,7 +10,7 @@ namespace DSPRACTICE
     {
         static void Main(string[] args)
         {
-            int[] selection_sort_numbers = { 3, 62, 5, 16, 4, 10 };
+            int[] selection_sort_numbers = { 5, 62, 5, 16, 4, 10 };
 
             Console.WriteLine("Here is the original array that will be used to execute the Bubble Sort Algorithm: ");
             for (int i = 0; i < selection_sort_numbers.Length; i++)
